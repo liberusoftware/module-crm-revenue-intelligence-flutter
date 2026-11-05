@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-revenue-intelligence-flutter",
+  "capabilityKey": "liberusoftware/module-crm-revenue-intelligence",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_revenue_intelligence_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/revenue-intelligence.md",
+  "presentationPlan": "projects/crm/flutter/revenue-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
